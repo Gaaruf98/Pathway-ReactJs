@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Assignment1",
+      "day": "Monday 15th June 2022",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Lab 3",
+      "day": "Sunday 3:30pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Soccer ",
+      "day": "Friday 19:45pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
